@@ -1,0 +1,1 @@
+# An-AGI-Inspired-Framework-for-Intergenerational-Human-Skill-Transfer
